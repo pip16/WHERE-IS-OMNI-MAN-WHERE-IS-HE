@@ -196,6 +196,7 @@ namespace ConsoleApp3
             //double a10 = a7 * a * a * a; 
             //Console.WriteLine($"a10 = {a10}");
 
+            ЗаДаНиЕ 25
 
             //Console.Write("Число 4 знака бажожда: ");
             //int num = int.Parse(Console.ReadLine());
@@ -216,7 +217,7 @@ namespace ConsoleApp3
             //Console.WriteLine($"СуМмА: {sum}");
             //Console.WriteLine($"УмНоЖеНиЕ: {mult}");
 
-            ЗаДаНиЕ 25
+            ЗаДаНиЕ 26
 
             int a, b, c;
             a = b = c = 2;
