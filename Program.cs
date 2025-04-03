@@ -216,6 +216,8 @@ namespace ConsoleApp3
             //Console.WriteLine($"СуМмА: {sum}");
             //Console.WriteLine($"УмНоЖеНиЕ: {mult}");
 
+            ЗаДаНиЕ 25
+
             int a, b, c;
             a = b = c = 2;
             double z_a = a * b + c++ / b - a * b * --c; //-3,66
