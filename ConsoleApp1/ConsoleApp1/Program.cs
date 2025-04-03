@@ -84,8 +84,47 @@ namespace ConsoleApp3
             else
             {
                 Console.WriteLine("а должно быть не равно 0");
-                Console.ReadKey();
+                Console.ReadKey(); 
             }
+            
+            //double a = double.Parse(Console.ReadLine());
+            //double b = double.Parse(Console.ReadLine());
+            //double c = double.Parse(Console.ReadLine());
+            //double y = double.Parse(Console.ReadLine());
+            //double disc = Math.Pow(b, y) - 4 * a * c;
+            //double z = Math.Sqrt(disc);
+            //double x1 = -b + Math.Sqrt(disc) / 2*a;
+            //double x2 = -b - Math.Sqrt(disc) / 2*a;
+            //Console.WriteLine(x1);
+            //Console.WriteLine(x2);
+            //Console.WriteLine(disc);
+            //Console.WriteLine(z);
+            
+            //double a = double.Parse(Console.ReadLine());
+            //double b = double.Parse(Console.ReadLine());
+            //double y = double.Parse(Console.ReadLine());
+            //double c = Math.Pow(a, y) + Math.Pow(b, y);
+            //Console.WriteLine(c);
+            
+            //double R = double.Parse(Console.ReadLine());
+            //double r = double.Parse(Console.ReadLine());
+            //double S = 3.14*(Math.Pow(R,2) - Math.Pow(r,2));
+            //Console.WriteLine(S);
+            
+            //double a = double.Parse(Console.ReadLine());
+            //double b = double.Parse(Console.ReadLine());
+            //double c = double.Parse(Console.ReadLine());
+            //double P = a + b + c;
+            //Console.WriteLine(P);
+            
+            //double a = double.Parse(Console.ReadLine());
+            //double b = double.Parse(Console.ReadLine());
+            //double arif = (a + b) / 2;
+            //double geom = double.RootN(a, 2);
+            //double minus_geom = Math.Abs(geom);
+            //double minus_arif = Math.Abs(arif);
+            //Console.WriteLine(minus_geom);
+            //Console.WriteLine(minus_arif);
 
         }
     }
