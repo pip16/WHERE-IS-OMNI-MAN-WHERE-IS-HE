@@ -1,4 +1,6 @@
-﻿namespace Практика_3
+﻿using System.ComponentModel.Design;
+
+namespace Практика_3
 {
     internal class Program
     {
@@ -271,30 +273,242 @@
             //     Console.WriteLine(y);
             //     Console.ReadKey();
             // }
-              //Задание 8
+            //Задание 8
 
-              //float x = float.Parse(Console.ReadLine());
-              //float y = float.Parse(Console.ReadLine());
-              //if (x < y)
-              //{
-              //    Console.WriteLine("x < y");
-              //    Console.ReadKey();
-              //}
-              //else
-              //{
-              //    Console.WriteLine("y < x");
-              //    Console.ReadKey();
-              //}
-            
-              //Задание 9
-            
-              //float x = float.Parse(Console.ReadLine());
-              //float y = float.Parse(Console.ReadLine());
-              //float z = Math.Min(x, y); 
-              //float v = Math.Max(x, y);
-            
-              //Console.Write("Наименьшее значение ");
-              //Console.WriteLine(z);
-              //Console.Write("Наибольшее значение ");
-              //Console.WriteLine(v);
-              //Console.ReadKey();
+            //float x = float.Parse(Console.ReadLine());
+            //float y = float.Parse(Console.ReadLine());
+            //if (x < y)
+            //{
+            //    Console.WriteLine("x < y");
+            //    Console.ReadKey();
+            //}
+            //else
+            //{
+            //    Console.WriteLine("y < x");
+            //    Console.ReadKey();
+            //}
+
+            //Задание 9
+
+            //float x = float.Parse(Console.ReadLine());
+            //float y = float.Parse(Console.ReadLine());
+            //float z = Math.Min(x, y);
+            //float v = Math.Max(x, y);
+
+            //Console.Write("Наименьшее значение ");
+            //Console.WriteLine(z);
+            //Console.Write("Наибольшее значение ");
+            //Console.WriteLine(v);
+            //Console.ReadKey();
+
+            //Задание 11
+
+            //double a = double.Parse(Console.ReadLine());
+            //double b = double.Parse(Console.ReadLine());
+            //double c = double.Parse(Console.ReadLine());
+            //double d = double.Parse(Console.ReadLine());
+            //double max = Math.Max(Math.Max(Math.Max(a, b), c), d);
+            //double min = Math.Min(Math.Min(Math.Min(a, b), c), d);
+            //Console.WriteLine($"ПоБоЛЬшЕ: {max}");
+            //Console.WriteLine($"ПоМеНьШе: {min}");
+
+            //Задание 12
+
+            //double km = double.Parse(Console.ReadLine());
+            //double ft = double.Parse(Console.ReadLine());
+            //double mkm = km * 1000;
+            //double mft = ft * 0.305;
+            //if (mkm > mft)
+            //{
+            //    Console.WriteLine("Расстаяноие в километрах больше");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Расстояние в футах больше");
+
+            //Задание 13
+
+            //double kmph = double.Parse(Console.ReadLine());
+            //double meph = double.Parse(Console.ReadLine());
+            //double mephkmph = kmph * 5.0 / 18.0;
+            //if (kmph > meph) {
+            //    Console.WriteLine("Скорость км/ч больше");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Скорость м/с больше");
+            //}
+
+            //Задание 14
+
+            //double a = double.Parse(Console.ReadLine());
+            //if (a % 2 == 0)
+            //{
+            //    Console.WriteLine("Четное");
+            //}
+            //else {
+            //    Console.WriteLine("Нечетное");
+            //}
+
+            //Задание 15
+
+            //double rad = double.Parse(Console.ReadLine());
+            //double a = double.Parse(Console.ReadLine());
+            //double rad1 = 3.14 * rad * rad;
+            //double a1 = a * a;
+            //if (rad1 < a1)
+            //{
+            //    Console.WriteLine("Площадь квадрата больше");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Площадь круга больше");
+            //}
+
+            //Задание 16
+
+            //double a = double.Parse(Console.ReadLine());
+            //double b = double.Parse(Console.ReadLine());
+            //if (b % a == 0)
+            //{
+            //    Console.WriteLine("a делитель");
+            //}
+            //else {
+            //    Console.WriteLine("a не делитель");
+            //}
+            //if (a % b == 0)
+            //{
+            //    Console.WriteLine("b делитель");
+            //}
+            //else {
+            //    Console.WriteLine("b не делитель");
+            //}
+
+            //Задание 17 не смогли решить 
+
+            //Задание 18 не уверен что правильно понял задание
+
+            //double a = double.Parse(Console.ReadLine());
+            //if (a % 400 == 0 && a % 4 == 0)
+            //{
+            //    Console.WriteLine("Год кратен 400 и 4");
+            //}
+            //else {
+            //    Console.WriteLine("Год не кратен");
+            //}
+
+            //Задание 19 Страшна нафиг я не знаю что это такое
+
+            //Задание 20
+
+            //int k = int.Parse(Console.ReadLine());
+            //if (k < 1 && k > 365) {
+            //    Console.WriteLine("От 1 до 365");
+            //}
+            //int day = k % 7;
+            //if (day == 6 || day == 0)
+            //{
+            //    Console.WriteLine("Выходные");
+            //}
+            //else {
+            //    Console.WriteLine("Будни");
+            //}
+
+            //Задание 21 хз правильно ли понял что за неполный оператор как по понял только через if (Слава Мерлоу)
+
+            //double y = double.Parse(Console.ReadLine());
+            //double x = double.Parse(Console.ReadLine());
+            //double maxA = x;
+            //double minA = x;
+            //if (y > maxA) maxA = y;
+            //if (y < minA) minA = y;
+            //Console.WriteLine($"Наибольшее: {maxA}");
+            //Console.WriteLine($"Наименьшее: {minA}");
+            //double maxB = x;
+            //double minB = y;
+            //if (x < y)
+            //{
+            //    maxB = y;
+            //    minB = x;
+            //}
+            //Console.WriteLine($"Наибольшее: {maxB}");
+            //Console.WriteLine($"Наименьшее: {minB}");
+
+            //Задание 22 уаааааааа хватит с заданиями со столами сложна сложна
+
+            //Задание 23
+
+            //int a = int.Parse(Console.ReadLine());
+            //if (a > 5 && a < 15)
+            //{
+            //    if (a == 6) { Console.WriteLine("Шестерка"); }
+            //    if (a == 7) { Console.WriteLine("Семерка"); }
+            //    if (a == 8) { Console.WriteLine("Восьмерка"); }
+            //    if (a == 9) { Console.WriteLine("Девятка"); }
+            //    if (a == 10) { Console.WriteLine("Десятка"); }
+            //    if (a == 11) { Console.WriteLine("Валет"); }
+            //    if (a == 12) { Console.WriteLine("Дама"); }
+            //    if (a == 13) { Console.WriteLine("Король"); }
+            //    if (a == 14) { Console.WriteLine("Туз"); }
+            //}
+            //else { Console.WriteLine("От 6 до 14 пожалуйста пока я добрый"); }
+
+            //Задание 24
+
+            //int a = int.Parse(Console.ReadLine());
+            //int b = int.Parse(Console.ReadLine());
+            //if (a > 5 && a < 15)
+            //{
+            //    if (a == 6) { Console.WriteLine("Шестерка"); }
+            //    if (a == 7) { Console.WriteLine("Семерка"); }
+            //    if (a == 8) { Console.WriteLine("Восьмерка"); }
+            //    if (a == 9) { Console.WriteLine("Девятка"); }
+            //    if (a == 10) { Console.WriteLine("Десятка"); }
+            //    if (a == 11) { Console.WriteLine("Валет"); }
+            //    if (a == 12) { Console.WriteLine("Дама"); }
+            //    if (a == 13) { Console.WriteLine("Король"); }
+            //    if (a == 14) { Console.WriteLine("Туз"); }
+            //}
+            //else { Console.WriteLine("От 6 до 14 пожалуйста пока я добрый"); }
+            //if (b > 0 && b < 5)
+            //{
+            //    if (b == 1) { Console.WriteLine("Пики"); }
+            //    if (b == 2) { Console.WriteLine("Треф"); }
+            //    if (b == 3) { Console.WriteLine("Бубны"); }
+            //    if (b == 4) { Console.WriteLine("Черви"); }
+            //}
+            //else { Console.WriteLine("от 1 до 4 БаЖоЖдА"); }
+
+            //Задание 25 a
+
+            //int k = int.Parse(Console.ReadLine());
+            //if (k < 1 && k > 365)
+            //{
+            //    Console.WriteLine("От 1 до 365");
+            //}
+            //if (k == 1) { Console.WriteLine("Понедельник"); }
+            //if (k == 2) { Console.WriteLine("Вторник"); }
+            //if (k == 3) { Console.WriteLine("Среда"); }
+            //if (k == 4) { Console.WriteLine("Четвег"); }
+            //if (k == 5) { Console.WriteLine("Пятница"); }
+            //if (k == 6) { Console.WriteLine("Суббота"); }
+            //if (k == 7) { Console.WriteLine("Воскресенье"); }
+
+            //Задание 25 b
+
+            //int k = int.Parse(Console.ReadLine());
+            //int d = int.Parse(Console.ReadLine());
+            //if (k < 1 && k > 365 && d < 1 && d >7)
+            //{
+            //    Console.WriteLine("От 1 до 365 и от 1 до 7");
+            //}
+            //int WEEEEEEEEEK = (d + (k - 1)) % 7;
+            //string[] days = { "Воскресенье", "Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота" };
+            //Console.WriteLine(days[WEEEEEEEEEK]);
+
+            //Задание 26 Моих сил на такое не хватает (Витя)
+
+            //Задание 27 Моих сил на такое не хватает (Витя)
+        }
+    }
+}
