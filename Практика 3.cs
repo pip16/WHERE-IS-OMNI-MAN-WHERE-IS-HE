@@ -271,3 +271,30 @@
             //     Console.WriteLine(y);
             //     Console.ReadKey();
             // }
+              //Задание 8
+
+              //float x = float.Parse(Console.ReadLine());
+              //float y = float.Parse(Console.ReadLine());
+              //if (x < y)
+              //{
+              //    Console.WriteLine("x < y");
+              //    Console.ReadKey();
+              //}
+              //else
+              //{
+              //    Console.WriteLine("y < x");
+              //    Console.ReadKey();
+              //}
+            
+              //Задание 9
+            
+              //float x = float.Parse(Console.ReadLine());
+              //float y = float.Parse(Console.ReadLine());
+              //float z = Math.Min(x, y); 
+              //float v = Math.Max(x, y);
+            
+              //Console.Write("Наименьшее значение ");
+              //Console.WriteLine(z);
+              //Console.Write("Наибольшее значение ");
+              //Console.WriteLine(v);
+              //Console.ReadKey();
