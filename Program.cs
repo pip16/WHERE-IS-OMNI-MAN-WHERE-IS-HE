@@ -196,7 +196,7 @@ namespace ConsoleApp3
             //double a10 = a7 * a * a * a; 
             //Console.WriteLine($"a10 = {a10}");
 
-            ЗаДаНиЕ 25
+            //ЗаДаНиЕ 25
 
             //Console.Write("Число 4 знака бажожда: ");
             //int num = int.Parse(Console.ReadLine());
@@ -217,20 +217,20 @@ namespace ConsoleApp3
             //Console.WriteLine($"СуМмА: {sum}");
             //Console.WriteLine($"УмНоЖеНиЕ: {mult}");
 
-            ЗаДаНиЕ 26
+            //ЗаДаНиЕ 26
 
-            int a, b, c;
-            a = b = c = 2;
-            double z_a = a * b + c++ / b - a * b * --c; //-3,66
-            double z_b = a * b + c++ / b - a * b * --c; //-1
-            double z_v = a * b + c++ / (b - a * b) * --c; //2
-            double z_g = a * (b + c++ / b) - a * b * --c; //-2
-            double z_d = a * (b + c++) / b - a * b * --c; //-4
-            Console.WriteLine(z_a);
-            Console.WriteLine(z_b);
-            Console.WriteLine(z_v);
-            Console.WriteLine(z_g);
-            Console.WriteLine(z_d);
+            //int a, b, c;
+            //a = b = c = 2;
+            //double z_a = a * b + c++ / b - a * b * --c; //-3,66
+            //double z_b = a * b + c++ / b - a * b * --c; //-1
+            //double z_v = a * b + c++ / (b - a * b) * --c; //2
+            //double z_g = a * (b + c++ / b) - a * b * --c; //-2
+            //double z_d = a * (b + c++) / b - a * b * --c; //-4
+            //Console.WriteLine(z_a);
+            //Console.WriteLine(z_b);
+            //Console.WriteLine(z_v);
+            //Console.WriteLine(z_g);
+            //Console.WriteLine(z_d);
 
         }
     }
