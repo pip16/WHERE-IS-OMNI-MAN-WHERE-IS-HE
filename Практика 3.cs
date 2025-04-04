@@ -172,6 +172,102 @@
             //bool y = bool.Parse(Console.ReadLine());
             //bool res =
             //Console.WriteLine($"({x}  )");
-        }
-    }
-}
+
+            //Задание 4 а)
+
+            // Console.Write("Введите число x: ");
+            // double x = double.Parse(Console.ReadLine());
+            // Console.Write("Введите число y: ");
+            // double y = double.Parse(Console.ReadLine());
+            // bool z = x < 2 && y < 3;
+            // Console.WriteLine($"{x} < 2 и {y} < 3 = {z}");
+            // Console.ReadKey();
+
+            // //Задание 4 б)
+
+            // Console.Write("Введите число x: ");
+            // double x1 = double.Parse(Console.ReadLine());
+            // bool z1 = !(x1<2);
+            // Console.WriteLine($"неверно что ({x1} < 2) = {z1}");
+            // Console.ReadKey();
+
+            // //Задание 4 в)
+
+            // Console.Write("Введите число x: ");
+            // double x2 = double.Parse(Console.ReadLine());
+            // Console.Write("Введите число y: ");
+            // double y2 = double.Parse(Console.ReadLine());
+            // bool z2 = x2 < 1 || y2 < 2;
+            // Console.WriteLine($"{x2} < 1 или {y2} < 2 = {z2}");
+            // Console.ReadKey();
+
+            // //Задание 4 г)
+
+            // Console.Write("Введите число x: ");
+            // double x3 = double.Parse(Console.ReadLine());
+            // bool z3 = !(x3 < 0 && x < 5);
+            // Console.WriteLine($"неверно что ({x3} < 0 и {5} < 5) =  {z}");
+            // Console.ReadKey();
+
+            // //Задание 4 д)
+
+            // Console.Write("Введите число x: ");
+            // double x4 = double.Parse(Console.ReadLine());
+            // Console.Write("Введите число y: ");
+            // double y4 = double.Parse(Console.ReadLine());
+            // bool z4 = x4 < 0 && y < 2;
+            // Console.WriteLine($"{x4} < 0 и {y4} < 2 = {z4}");
+            // Console.ReadKey();
+
+            // //Задание 4 е)
+
+            // Console.Write("Введите число x: ");
+            // double x5 = double.Parse(Console.ReadLine());
+            // bool z5 = 10 < x5 < 20;                        //хз почекай как сделать это вить тут типо к булево нельзя знак сравнения делать
+            // Console.WriteLine($"{x5} < 2 и {y} < 3 = {z5}");
+            // Console.ReadKey();
+
+            // //Задание 4 ж)
+
+            // Console.Write("Введите число x: ");
+            // double x6 = double.Parse(Console.ReadLine());
+            // bool z6 = x6 > 3 || x6 < 1;
+            // Console.WriteLine($"{x6} > 3 или {x6} < 1");
+            // Console.ReadKey();
+
+            // //Задание 4 з)
+
+            // Console.Write("Введите число x: ");
+            // double x7 = double.Parse(Console.ReadLine());
+            // Console.Write("Введите число y: ");
+            // double y7 = double.Parse(Console.ReadLine());
+            // bool z7 = 0 < y7 < 4 && x7 < 5;                  //хз почекай как сделать это вить тут типо к булево нельзя знак сравнения делать
+            // Console.WriteLine($"{x7} < 2 и {y7} < 3 = {z7}");
+            // Console.ReadKey();
+
+            // //Задание 4 и)
+
+            // Console.Write("Введите число x: ");
+            // double x8 = double.Parse(Console.ReadLine());
+            // bool z8 = x8 > 3 && x8 < 10;
+            // Console.WriteLine($"{x8} > 3 и {x8} < 10 = {z8}");
+            // Console.ReadKey();
+
+            //Пятое, шестое на тебе 
+
+            //Задание 7
+
+            // Console.Write("Введите число x: ");
+            // double x = double.Parse(Console.ReadLine());
+            // if (x > 0)
+            // {
+            //     double y = Math.Sin(x);
+            //     Console.WriteLine(y);
+            //     Console.ReadKey();
+            // }
+            // else
+            // {
+            //     double y = Math.Cos(x);
+            //     Console.WriteLine(y);
+            //     Console.ReadKey();
+            // }
