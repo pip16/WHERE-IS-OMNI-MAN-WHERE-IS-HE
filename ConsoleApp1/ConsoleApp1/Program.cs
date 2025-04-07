@@ -73,19 +73,19 @@ namespace ConsoleApp3
             //int m = p * v;
             //Console.WriteLine(m);
 
-            double a = double.Parse(Console.ReadLine());
-            double b = double.Parse(Console.ReadLine());
-            if (a != 0)
-            {
-                double x = -b / a;
-                Console.WriteLine(x);
-                Console.ReadKey();
-            }
-            else
-            {
-                Console.WriteLine("а должно быть не равно 0");
-                Console.ReadKey(); 
-            }
+            // double a = double.Parse(Console.ReadLine());
+            // double b = double.Parse(Console.ReadLine());
+            // if (a != 0)
+            // {
+            //     double x = -b / a;
+            //     Console.WriteLine(x);
+            //     Console.ReadKey();
+            // }
+            // else
+            // {
+            //     Console.WriteLine("а должно быть не равно 0");
+            //     Console.ReadKey(); 
+            // }
             
             //double a = double.Parse(Console.ReadLine());
             //double b = double.Parse(Console.ReadLine());
