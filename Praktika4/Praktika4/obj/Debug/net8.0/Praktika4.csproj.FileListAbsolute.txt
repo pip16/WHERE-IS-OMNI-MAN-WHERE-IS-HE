@@ -1,0 +1,14 @@
+C:\bd dem\Praktika4\Praktika4\bin\Debug\net8.0\Praktika4.exe
+C:\bd dem\Praktika4\Praktika4\bin\Debug\net8.0\Praktika4.deps.json
+C:\bd dem\Praktika4\Praktika4\bin\Debug\net8.0\Praktika4.runtimeconfig.json
+C:\bd dem\Praktika4\Praktika4\bin\Debug\net8.0\Praktika4.dll
+C:\bd dem\Praktika4\Praktika4\bin\Debug\net8.0\Praktika4.pdb
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.GeneratedMSBuildEditorConfig.editorconfig
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.AssemblyInfoInputs.cache
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.AssemblyInfo.cs
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.csproj.CoreCompileInputs.cache
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.dll
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\refint\Praktika4.dll
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.pdb
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\Praktika4.genruntimeconfig.cache
+C:\bd dem\Praktika4\Praktika4\obj\Debug\net8.0\ref\Praktika4.dll
