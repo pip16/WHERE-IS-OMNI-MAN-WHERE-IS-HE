@@ -1,0 +1,14 @@
+C:\bd dem\Parktika 5\Parktika 5\bin\Debug\net8.0\Parktika 7.exe
+C:\bd dem\Parktika 5\Parktika 5\bin\Debug\net8.0\Parktika 7.deps.json
+C:\bd dem\Parktika 5\Parktika 5\bin\Debug\net8.0\Parktika 7.runtimeconfig.json
+C:\bd dem\Parktika 5\Parktika 5\bin\Debug\net8.0\Parktika 7.dll
+C:\bd dem\Parktika 5\Parktika 5\bin\Debug\net8.0\Parktika 7.pdb
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.AssemblyInfoInputs.cache
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.AssemblyInfo.cs
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.csproj.CoreCompileInputs.cache
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.dll
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\refint\Parktika 7.dll
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.pdb
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\Parktika 7.genruntimeconfig.cache
+C:\bd dem\Parktika 5\Parktika 5\obj\Debug\net8.0\ref\Parktika 7.dll
