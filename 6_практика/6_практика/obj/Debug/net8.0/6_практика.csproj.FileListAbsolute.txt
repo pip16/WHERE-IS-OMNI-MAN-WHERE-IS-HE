@@ -1,0 +1,14 @@
+C:\Users\vishn\source\repos\6_практика\6_практика\bin\Debug\net8.0\6_практика.exe
+C:\Users\vishn\source\repos\6_практика\6_практика\bin\Debug\net8.0\6_практика.deps.json
+C:\Users\vishn\source\repos\6_практика\6_практика\bin\Debug\net8.0\6_практика.runtimeconfig.json
+C:\Users\vishn\source\repos\6_практика\6_практика\bin\Debug\net8.0\6_практика.dll
+C:\Users\vishn\source\repos\6_практика\6_практика\bin\Debug\net8.0\6_практика.pdb
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.AssemblyInfoInputs.cache
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.AssemblyInfo.cs
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.csproj.CoreCompileInputs.cache
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.dll
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\refint\6_практика.dll
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.pdb
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\6_практика.genruntimeconfig.cache
+C:\Users\vishn\source\repos\6_практика\6_практика\obj\Debug\net8.0\ref\6_практика.dll
