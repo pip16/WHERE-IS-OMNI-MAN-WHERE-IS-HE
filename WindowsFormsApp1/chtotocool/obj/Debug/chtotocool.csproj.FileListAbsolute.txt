@@ -1,0 +1,10 @@
+C:\bd dem\WindowsFormsApp1\chtotocool\bin\Debug\chtotocool.exe.config
+C:\bd dem\WindowsFormsApp1\chtotocool\bin\Debug\chtotocool.exe
+C:\bd dem\WindowsFormsApp1\chtotocool\bin\Debug\chtotocool.pdb
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.csproj.AssemblyReference.cache
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.Form1.resources
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.Properties.Resources.resources
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.csproj.GenerateResource.cache
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.csproj.CoreCompileInputs.cache
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.exe
+C:\bd dem\WindowsFormsApp1\chtotocool\obj\Debug\chtotocool.pdb
